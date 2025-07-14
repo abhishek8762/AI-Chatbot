@@ -2,8 +2,6 @@
 
 A modern, interactive chatbot application built with ReactJS that enables users to have conversations with an AI model and provide multi-dimensional feedback. The application features a clean, intuitive interface with comprehensive feedback mechanisms and conversation management.
 
-![Chat Interface](https://raw.githubusercontent.com/milindkusahu/BotAI-Chatbot/refs/heads/main/BotAI%20Chatbot%20Demo.png)
-
 ## Features
 
 ### Core Functionality
@@ -16,8 +14,6 @@ A modern, interactive chatbot application built with ReactJS that enables users 
 - Conversation history management
 - Feedback analytics dashboard with filtering capabilities
 
-![Feedback Dashboard](https://raw.githubusercontent.com/milindkusahu/BotAI-Chatbot/refs/heads/main/BotAI%20Chatbot%20Feedback%20Demo.png)
-
 ### Additional Features
 
 - Light/Dark mode toggle
@@ -25,11 +21,6 @@ A modern, interactive chatbot application built with ReactJS that enables users 
 - Clean and intuitive user interface
 - Conversation persistence and retrieval
 - Advanced feedback filtering and sorting
-
-## Demo
-
-![Dark Mode](https://raw.githubusercontent.com/milindkusahu/BotAI-Chatbot/refs/heads/main/BotAI%20Chatbot%20DarkMode%20Demo.png)
-*Dark Mode View with Chat History*
 
 ## Tech Stack
 
@@ -79,7 +70,7 @@ This application uses a mock data approach instead of real API integration:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/milindkusahu/BotAI-Chatbot.git
+git clone https://github.com/abhishek8762/AI-Chatbot.git
 ```
 
 2. Navigate to the project directory
@@ -150,9 +141,7 @@ yarn dev
 - Intuitive navigation between different views
 - Clear visual hierarchy in feedback dashboard
 
-![Mobile View](https://raw.githubusercontent.com/milindkusahu/BotAI-Chatbot/refs/heads/main/BotAI%20Chatbot%20Mobile%20Demo.png)
-
-*Responsive Mobile View*
+_Responsive Mobile View_
 
 ### User Experience
 
@@ -170,10 +159,12 @@ yarn dev
 
    - Pro: Simplified deployment and setup
    - Con: Limited storage capacity and data persistence
+
 2. Mocked AI responses
 
    - Pro: Predictable behavior for testing
    - Con: Limited interaction possibilities
+
 3. Client-side filtering
 
    - Pro: Quick response time
@@ -186,12 +177,14 @@ yarn dev
    - Implement proper database storage
    - Add user authentication
    - Real AI model integration
+
 2. Enhanced Features
 
    - Export feedback data
    - Advanced analytics dashboard
    - Conversation search functionality
    - Tags for conversation categorization
+
 3. Performance Optimizations
 
    - Implement pagination for large datasets
@@ -200,7 +193,7 @@ yarn dev
 
 ## Deployment
 
-The application is deployed on Vercel and can be accessed at: [BotAI Chatbot](https://bot-ai-chatbot-five.vercel.app/)
+The application is deployed on Vercel and can be accessed at: [BotAI Chatbot](https://ai-chatbot-beige-gamma-55.vercel.app/)
 
 ## Contributing
 
